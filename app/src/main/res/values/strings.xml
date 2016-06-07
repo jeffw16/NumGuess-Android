@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">NumGuess</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="min_value">Minimum</string>
+    <string name="max_value">Maximum</string>
+    <string name="custom">Custom values</string>
+    <string name="preset">Preset values</string>
+    <string name="preset1">Between 1 and 10</string>
+    <string name="preset2">Between 1 and 100</string>
+    <string name="submit">Play using custom values</string>
+    <string name="title_activity_guess">Make a guess</string>
+    <string name="prompt_guess">Your guess</string>
+    <string name="submit_guess">Check guess</string>
+    <string name="title_activity_check_guess">Check guess</string>
+    <string name="go_back">Go back</string>
+    <string name="legal_text">Version v1.0.2. Copyright 2015 Jeffrey Wang, all rights reserved.</string>
+    <string name="guess_lower">Try guessing lower.
+
+Go back and guess again.</string>
+    <string name="guess_higher">Try guessing higher.
+
+Go back and guess again.</string>
+    <string name="guess_correct">Congratulations, your guess was correct!
+
+Go back twice and start a new game.</string>
+</resources>

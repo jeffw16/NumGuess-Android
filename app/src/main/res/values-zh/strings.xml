@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NumGuess</string>
+    <string name="go_back">回去</string>
+    <string name="custom">自己收入大小</string>
+    <string name="max_value">大</string>
+    <string name="min_value">小</string>
+    <string name="preset">提供的大小</string>
+    <string name="hello_world">你好世界</string>
+    <string name="legal_text">版本v1.0.2. 版权所有二零一五年汪天晶, 保留所有权利.</string>
+    <string name="preset1">从一到十</string>
+    <string name="preset2">从一到一百</string>
+    <string name="prompt_guess">猜数字</string>
+    <string name="submit">玩</string>
+    <string name="submit_guess">看对不对</string>
+    <string name="title_activity_guess">猜一下</string>
+    <string name="title_activity_check_guess">看对不对</string>
+    <string name="guess_correct">恭喜, 您猜对了！</string>
+    <string name="guess_higher">猜一个大一点的数字.</string>
+    <string name="guess_lower">猜一个小一点的数字.</string>
+    <string name="action_settings">设置</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NumGuess</string>
+    <string name="go_back">Retourner</string>
+    <string name="hello_world">Bonjour monde!</string>
+    <string name="max_value">Maximum</string>
+    <string name="min_value">Minimum</string>
+    <string name="preset1">Entre 1 et 10</string>
+    <string name="preset2">Entre 1 et 100</string>
+    <string name="prompt_guess">Votre estimation</string>
+    <string name="submit">Jouer avec des valeurs personnalisées</string>
+    <string name="submit_guess">Vérifiez conjecture</string>
+    <string name="title_activity_check_guess">Vérifiez conjecture</string>
+    <string name="title_activity_guess">Deviner</string>
+    <string name="custom">Valeurs personnalisées</string>
+    <string name="preset">Valeurs prédéfinies</string>
+    <string name="legal_text">Version v1.0.2. Droit d\'auteur 2015 Jeffrey Wang, tous droits réservés.</string>
+    <string name="guess_correct">Félicitations, votre estimation était correcte! Appuyez sur le bouton "retourner" deux fois et de commencer un nouveau jeu.</string>
+    <string name="guess_higher">Essayez du deviner supérieur. Revenez en arrière et devinez encore.</string>
+    <string name="guess_lower">Essayez du deviner inférieure. Revenez en arrière et devinez encore.</string>
+    <string name="action_settings">Parametres</string>
+</resources>
