@@ -30,18 +30,18 @@ public class MainActivity extends ActionBarActivity {
     }
 
     public void launchGamePreset1 ( View view ) {
-        this.launchGame( view, 1, 10 );
+        this.launchGame( view, 0, 10 );
     }
 
     public void launchGamePreset2 ( View view ) {
-        this.launchGame( view, 1, 100 );
+        this.launchGame( view, 0, 100 );
     }
 
     public void launchGameCustom ( View view ) {
         EditText minValue = (EditText) findViewById( R.id.inputMinValue );
         EditText maxValue = (EditText) findViewById( R.id.inputMaxValue );
         if ( Integer.parseInt(minValue.getText().toString()) > Integer.parseInt(maxValue.getText().toString()) ) {
-            this.launchGame(view, 1, 10);
+            this.launchGame(view, 0, 10);
         }
         try {
             this.launchGame(view, Integer.parseInt(minValue.getText().toString()), Integer.parseInt(maxValue.getText().toString()));
